@@ -7,10 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codsxblastin&layout=compact&theme=vue" />
 </a>
 
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning PHP and Python!!
 
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+Discord: JustJory#2837
