@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning PHP and Python!!
 
 - 📫 How to reach me:
-Discord: JustJory#2837
+Discord: Jory#1400
